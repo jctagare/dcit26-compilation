@@ -9,6 +9,6 @@ A compilation of React Native examples for the course DCIT 26 – Application De
 * https://snack.expo.io/@tagarejc/lab-6---fetch-api
 
 ## Members (BSCS 3‐2)
-Lumactod, Ian Niño O.
-So, Jhon Carl V.
-Tagare, John Christian R.
+* Lumactod, Ian Niño O.
+* So, Jhon Carl V.
+* Tagare, John Christian R.
